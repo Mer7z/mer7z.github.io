@@ -230,26 +230,26 @@
 }
 
 #html-skill.active{
-  width: 80px
+  width: 56px
 }
 
 #css-skill.active{
-  width: 60px;
+  width: 47px;
 }
 #js-skill.active{
-  width: 63px;
+  width: 47px;
 }
 #ajax-skill.active{
   width: 40px;
 }
 #node-skill.active{
-  width: 63px;
+  width: 57px;
 }
 #express-skill.active{
-  width: 73px;
+  width: 47px;
 }
 #php-skill.active{
-  width: 58px;
+  width: 38px;
 }
 #react-skill.active{
   width: 40px;
