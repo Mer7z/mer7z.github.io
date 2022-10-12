@@ -3,6 +3,8 @@
   --color2: #252525;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Josefin+Sans:ital,wght@0,400;0,700;1,700&family=Merriweather:wght@300;400;700&family=Montserrat:ital,wght@0,100;0,300;0,400;0,700;1,100;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
 #upper-section{
   background-color: var(--color1);
   color: white;
@@ -178,6 +180,15 @@
   padding: 50px 0 0;
   margin-bottom: 5%;
 }
+
+.name-info h2{
+  font-family: 'Montserrat', sans-serif;
+}
+.name-info h4{
+  font-family: 'Merriweather', serif;;
+  font-style: italic;
+}
+
 .about-container p{
   font-size: 1.1rem;
 }
