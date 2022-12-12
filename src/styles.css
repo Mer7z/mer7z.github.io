@@ -167,6 +167,9 @@
 #chans:hover::after, #chans:hover::before{
   content: "🍀";
 }
+#ro3:hover::after, #ro3:hover::before{
+  content: "🔢";
+}
 
 .project-comming{
   color: #ffffffc2 !important;
