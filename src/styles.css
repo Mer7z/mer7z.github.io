@@ -353,6 +353,9 @@
   #chans::after, #chans::before{
     content: "🍀";
   }
+  #ro3::after, #ro3::before{
+    content: "🔢";
+  }
   .projects-list li{
     color: white;
   }
