@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Short Video Trends",
+    "date": "March 2023",
+    "description": "STV is a web page where you can view the most used songs on TikTok for each country. This site is from the Trend Watchers brand and I helped to develop it.",
+    "pageLink": "https://shortvideotrends.co",
+    "img": "/projects/images/short-video-trends.png"
+  },
+  {
+    "name": "Rule of 3 Calculator",
+    "date": "Nov 2022",
+    "description": "Rule of 3 Calculator is a vanilla web app I made to practice Javascript and Bootstrap. I made this in one day, more or less.",
+    "pageLink": "https://mer7z.github.io/RuleOf3/",
+    "img": "/projects/images/RO3.png"
+  },
+  {
+    "name": "ChanS.",
+    "date": "Dec 2022",
+    "description": "ChanS. is a search engine and web scrapper of 4Chan. It can search any thread on any board. It updates every 5 minutes. I made this to practice Node.js and React.",
+    "pageLink": "https://mer7z.github.io/chans/",
+    "img": "/projects/images/chans.png"
+  },
+  {
+    "name": "IzyFile",
+    "date": "Sep 2022",
+    "description": "IzyFile is a page where you can upload any file and it gives a link to share with anyone. I made this in Node.js and Express. This project is not deployed",
+    "pageLink": "https://github.com/Mer7z/IzyFile",
+    "img": "/projects/images/IzyFile.png"
+  },
+  {
+    "name": "SPELA14",
+    "date": "Sep 2022",
+    "description": "SPELA14 is a webpage and online orders system for the fast food restaurant Arepahamburger la 14, located at Caicedonia, Valle del Cauca, Colombia. This site was my final project for my SENA degree. I made it with vanilla HTML, CSS, and javascript, with a back-end of PHP. This project is not deployed",
+    "pageLink": "https://github.com/Mer7z/SPELA14",
+    "img": "/projects/images/spela14.png"
+  },
+  {
+    "name": "WishACar",
+    "date": "Aug 2022",
+    "description": "WishACar is a joke webpage I made to learn CSS and Bootstrap. This site have pictures that could offend English Speakers",
+    "pageLink": "https://mer7z.github.io/WishACar/",
+    "img": "/projects/images/wishacar.png"
+  }
+]
