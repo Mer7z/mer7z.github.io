@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 import Home from "../components/Home";
 import Navbar from "../layout/Navbar";
 import Footer from "../layout/Footer";
@@ -112,7 +112,7 @@ function MainRouter() {
   }, [scroll]);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div ref={app} className={"App h-full overflow-auto " + colorTheme}>
         <Navbar
           colorTheme={colorTheme}
@@ -138,7 +138,7 @@ function MainRouter() {
         </div>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
