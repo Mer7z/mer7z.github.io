@@ -7,7 +7,8 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const mailtoLink = `mailto:mer7zy@hotmail.com?subject=${subject}&body=${name}%0A%0A${body}`;
+    const breakBody = body.replace(/\r\n|\r|\n/g, "%0D%0A");
+    const mailtoLink = `mailto:mer7zy@hotmail.com?subject=${subject}&body=${name}%0A%0A${breakBody}`;
     window.location.href = mailtoLink;
   };
 

@@ -6,6 +6,7 @@ import Footer from "../layout/Footer";
 import Curriculum from "../components/Curriculum";
 import Portfolio from "../components/Portfolio";
 import Contact from "../components/Contact";
+import NotFound from "../layout/NotFound";
 
 function MainRouter() {
   const [colorTheme, setColorTheme] = useState("light");
@@ -134,6 +135,7 @@ function MainRouter() {
             <Route path="/curriculum" element={<Curriculum/>} />
             <Route path="/portfolio" element={<Portfolio/>} />
             <Route path="/contact" element={<Contact/>} />
+            <Route path="/*" element={<NotFound/>} />
           </Routes>
         </div>
         <Footer />
