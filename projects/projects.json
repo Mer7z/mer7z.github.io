@@ -33,12 +33,5 @@
     "description": "SPELA14 is a webpage and online orders system for the fast food restaurant Arepahamburger la 14, located at Caicedonia, Valle del Cauca, Colombia. This site was my final project for my SENA degree. I made it with vanilla HTML, CSS, and javascript, with a back-end of PHP. This project is not deployed",
     "pageLink": "https://github.com/Mer7z/SPELA14",
     "img": "/projects/images/spela14.png"
-  },
-  {
-    "name": "WishACar",
-    "date": "Aug 2022",
-    "description": "WishACar is a joke webpage I made to learn CSS and Bootstrap. This site have pictures that could offend English Speakers",
-    "pageLink": "https://mer7z.github.io/WishACar/",
-    "img": "/projects/images/wishacar.png"
   }
 ]
