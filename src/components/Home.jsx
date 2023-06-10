@@ -20,9 +20,6 @@ function Home() {
           <p className='font-sans text-xl lg:text-2xl mb-6 lg:mb-0 lg:basis-2/4'>
             I'm a 18yo Full-Stack Developer from Colombia who likes to draw and chill. I'm Studying Software Developing and I love to create things from scratch, It's so fulfilling.<br /><br/>I have some project ideas in mind, and I currently developing a few. With a year and a half of experience practising my skills. I'm always open for any job opportunities and projects to participate, so feel free to contact me.<br/>It'll be a pleasure to work with you ^_^.            
           </p>
-          <div className='drawing1'>
-            <div className="template w-80 h-52 bg-gray-400 mt-20 md:mt-0 lg:ml-24"></div>
-          </div>
         </div>
       </section>
       <section className='skills my-72'>
