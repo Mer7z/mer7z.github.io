@@ -1,5 +1,12 @@
 [
   {
+    "name": "Trend Watchers v8",
+    "date": "October 2023",
+    "description": "This is the newest version of a very useful web application to view trending topics and making videos about it.",
+    "pageLink": "https:trendwatchers.co",
+    "img": "/projects/images/trendwatchers.png"
+  },
+  {
     "name": "Short Video Trends",
     "date": "March 2023",
     "description": "STV is a web page where you can view the most used songs on TikTok for each country. This site is from the Trend Watchers brand and I helped to develop it.",
@@ -30,7 +37,7 @@
   {
     "name": "SPELA14",
     "date": "Sep 2022",
-    "description": "SPELA14 is a webpage and online orders system for the fast food restaurant Arepahamburger la 14, located at Caicedonia, Valle del Cauca, Colombia. This site was my final project for my SENA degree. I made it with vanilla HTML, CSS, and javascript, with a back-end of PHP. This project is not deployed",
+    "description": "SPELA14 was a webpage and online orders system for the fast food restaurant Arepahamburger la 14, located in Colombia. This site was my final project for my SENA degree. I made it with vanilla HTML, CSS, and javascript, with a back-end of PHP. This project is not deployed",
     "pageLink": "https://github.com/Mer7z/SPELA14",
     "img": "/projects/images/spela14.png"
   }
