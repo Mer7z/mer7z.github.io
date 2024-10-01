@@ -1,6 +1,7 @@
 import React from "react";
 import CVDesc from "./CVDesc";
 import CVSkills from "./CVSkills";
+import fotoPerfil from "../assets/foto-perfil.jpg";
 
 function Curriculum() {
   return (
@@ -10,7 +11,7 @@ function Curriculum() {
           <div className="profile-pic w-32 h-32 md:w-72 md:h-72 rounded-full overflow-hidden">
             <img
               className="w-full h-full object-cover object-center"
-              src="/foto-perfil.jpg"
+              src={fotoPerfil}
             />
           </div>
           <div className="text-center lg:text-left md:ml-5">
