@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import ProjectsList from './ProjectsList'
+import fotoPerfil from '../assets/foto-perfil.jpg'
 
 function Home() {
   
@@ -9,7 +10,7 @@ function Home() {
       <section className='introduction'>
         <div className='greeting-header flex flex-col lg:flex-row w-full justify-center items-center'>
           <div className='profile-pic w-32 h-32 md:w-72 md:h-72 rounded-full overflow-hidden apear-static opacity-0'>
-            <img className='w-full h-full object-cover object-center' src="/foto-perfil.jpg"/>
+            <img className='w-full h-full object-cover object-center' src={fotoPerfil}/>
           </div>
           <div className='greeting text-center lg:text-left lg:ml-5 apear-left opacity-0'>
             <h1 className='text-5xl md:text-6xl font-bold'>Hi, i'm <span className='text-sky-500'>Manuel</span>.</h1>
