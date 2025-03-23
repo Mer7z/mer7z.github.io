@@ -87,9 +87,9 @@ function Curriculum() {
                 Job Experience
               </h2>
               <CVDesc 
-                title={"Full Stack Web Developer - Trend Watchers - Marietta, Georgia, USA."}
+                title={"Web Developer - TrendWatchers - Marietta, Georgia, USA."}
                 duration={"Nov 2022 - Present"}
-                desc={`I am currently designing and developing the "Short Video Trends" system for the company Trend Watchers. I work on a fixed price basis and provide excellent quality at a lower price. It's an excellent company with a very cooperative owner.`}
+                desc={`I am currently designing and developing a web application for the brand TrendWatchers. I test my knolege in Javascript, React, Laravel and PHP here. It's an excellent company with a very cooperative owner.`}
               />
               <CVDesc 
                 title={`Web Developer - Arepahamburger la 14 - Caicedonia, Valle del Cauca, Colombia`}
@@ -102,17 +102,17 @@ function Curriculum() {
                 Academic Background
               </h2>
               <CVDesc
-                title={"Technology in software developing - Universidad del Valle - Caicedonia, Valle del Cauca, Colombia"}
+                title={"Associate in Software Development - Universidad del Valle - Caicedonia, Valle del Cauca, Colombia"}
                 duration={"Mar 2023 - Present"}
                 desc={"Currently coursing a Technology degree at the 8th best univesity in Colombia. So far so good."}
               />
               <CVDesc
-                title={"Technology in Analysis and Development of Information Systems - National Learning Service (SENA) - Pilaito, Huila, Colombia"}
-                duration={"Jul 2021 - Present"}
+                title={"Associate in Analysis and Development of Information Systems - National Learning Service (SENA) - Pilaito, Huila, Colombia"}
+                duration={"Jun 2021 - Jun 2023"}
                 desc={"Successfully completed the academic phase in December 2022 and currently in the practical phase."}
               />
               <CVDesc
-                title={"Agroindustrial Barchelor - E. I. Luis Granada Mejía - Barragan, Quíndio, Colombia"}
+                title={"High School Diploma - E. I. Luis Granada Mejía - Barragan, Quíndio, Colombia"}
                 duration={"Jan 2014 - Dec 2020"}
                 desc={"Graduated with a High School Diploma and a Technical graduate in food agribusiness Degree"}
               />
