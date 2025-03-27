@@ -19,7 +19,7 @@ function Project({title, description, date, imgLink, projectLink, tech}) {
         <div className='flex flex-wrap gap-3 mt-3'>
           {
             tech && tech.map((val, index) => (
-              <span key={index} className='p-2 bg-gray-500 rounded-full text-xs'>{val}</span>
+              <span key={index} className='p-2 text-white dark:bg-gray-500 rounded-full text-xs'>{val}</span>
             ))
           }
         </div>
