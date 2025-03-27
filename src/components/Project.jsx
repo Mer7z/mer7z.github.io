@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-function Project({title, description, date, imgLink, projectLink}) {
+function Project({title, description, date, imgLink, projectLink, tech}) {
 
   const [hover, setHover] = useState(false);
 
@@ -16,6 +16,13 @@ function Project({title, description, date, imgLink, projectLink}) {
       <div className='project-info font-sans mt-3'>
         <a href={projectLink} target="_blank" className='text-xl font-bold font-serif transition-colors cursor-pointer hover:underline hover:text-sky-500'>{title}</a>
         <p className='text-lg text-black/60'>{date}</p>
+        <div className='flex flex-wrap gap-3 mt-3'>
+          {
+            tech && tech.map((val, index) => (
+              <span key={index} className='p-2 bg-gray-500 rounded-full text-xs'>{val}</span>
+            ))
+          }
+        </div>
         <p className='mt-3'>{description}</p>
       </div>
     </div>

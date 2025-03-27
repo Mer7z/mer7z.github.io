@@ -34,6 +34,7 @@ function ProjectsList({filter}) {
             imgLink={val.img}
             description={val.description}
             projectLink={val.pageLink}
+            tech={val.tech}
           />
         ))}
       </div>
@@ -50,6 +51,7 @@ function ProjectsList({filter}) {
             imgLink={val.img}
             description={val.description}
             projectLink={val.pageLink}
+            tech={val.tech}
           />
         ))}
       </div>

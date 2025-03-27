@@ -1,16 +1,34 @@
 [
   {
+    "name": "MyOC",
+    "date": "October 2024",
+    "description": "MyOC is a webpage for the creation and sharing of Original Characters (OCs) and illustrations. This was the project made for the practical phase in my SENA degree, this project is currently innactive, but I want to continue to develop it in the future.",
+    "pageLink": "https://myoc.onrender.com",
+    "tech": ["Javascript", "React", "Node.js", "Express.js", "MySQL"],
+    "img": "/projects/images/myoc.png"
+  },
+  {
+    "name": "Tu-Du-Tu",
+    "date": "February 2024",
+    "description": "A to-do list app for practicing vue.js and uploaded using firebase webhosting.",
+    "pageLink": "https://tu-du-tu.web.app",
+    "tech": ["Javascript", "Vue", "Firebase"],
+    "img": "/projects/images/tudutu.png"
+  },
+  {
     "name": "Trend Watchers v8",
     "date": "October 2023",
     "description": "This is the newest version of a very useful web application to view trending topics and making videos about it.",
     "pageLink": "https://trendwatchers.co",
+    "tech": ["Javascript", "React", "Laravel", "PHP", "MySQL"],
     "img": "/projects/images/trendwatchers.png"
   },
   {
     "name": "Short Video Trends",
     "date": "March 2023",
-    "description": "STV is a web page where you can view the most used songs on TikTok for each country. This site is from the Trend Watchers brand and I helped to develop it.",
+    "description": "STV was a web page where you can view the most used songs on TikTok for each country. This site is from the Trend Watchers brand and I helped to develop it. This project has been deprecated and merged with Trendwatchers.co",
     "pageLink": "https://shortvideotrends.co",
+    "tech": ["Javascript", "React", "Laravel", "PHP", "MySQL"],
     "img": "/projects/images/short-video-trends.png"
   },
   {
@@ -18,6 +36,7 @@
     "date": "Nov 2022",
     "description": "Rule of 3 Calculator is a vanilla web app I made to practice Javascript and Bootstrap. I made this in one day, more or less.",
     "pageLink": "https://mer7z.github.io/RuleOf3/",
+    "tech": ["Javascript", "HTML", "CSS", "Bootstrap"],
     "img": "/projects/images/RO3.png"
   },
   {
@@ -25,6 +44,7 @@
     "date": "Dec 2022",
     "description": "ChanS. is a search engine and web scrapper of 4Chan. It can search any thread on any board. It updates every 5 minutes. I made this to practice Node.js and React.",
     "pageLink": "https://mer7z.github.io/chans/",
+    "tech": ["Javascript", "React", "Node.js", "Express.js"],
     "img": "/projects/images/chans.png"
   },
   {
@@ -32,6 +52,7 @@
     "date": "Sep 2022",
     "description": "IzyFile is a page where you can upload any file and it gives a link to share with anyone. I made this in Node.js and Express. This project is not deployed",
     "pageLink": "https://github.com/Mer7z/IzyFile",
+    "tech": ["Javascript", "Node.js", "Express.js"],
     "img": "/projects/images/IzyFile.png"
   },
   {
@@ -39,6 +60,7 @@
     "date": "Sep 2022",
     "description": "SPELA14 was a webpage and online orders system for the fast food restaurant Arepahamburger la 14, located in Colombia. This site was my final project for my SENA degree. I made it with vanilla HTML, CSS, and javascript, with a back-end of PHP. This project is not deployed",
     "pageLink": "https://github.com/Mer7z/SPELA14",
+    "tech": ["PHP", "MySQL"],
     "img": "/projects/images/spela14.png"
   }
 ]

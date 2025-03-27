@@ -104,7 +104,7 @@ function Curriculum() {
               <CVDesc
                 title={"Associate in Software Development - Universidad del Valle - Caicedonia, Valle del Cauca, Colombia"}
                 duration={"Mar 2023 - Present"}
-                desc={"Currently coursing a Technology degree at the 8th best univesity in Colombia. So far so good."}
+                desc={"Currently coursing a Associate degree at the 8th best univesity in Colombia. So far so good."}
               />
               <CVDesc
                 title={"Associate in Analysis and Development of Information Systems - National Learning Service (SENA) - Pilaito, Huila, Colombia"}
@@ -114,7 +114,7 @@ function Curriculum() {
               <CVDesc
                 title={"High School Diploma - E. I. Luis Granada Mejía - Barragan, Quíndio, Colombia"}
                 duration={"Jan 2014 - Dec 2020"}
-                desc={"Graduated with a High School Diploma and a Technical graduate in food agribusiness Degree"}
+                desc={"Graduated with a High School Diploma and a Associate degree in food agribusiness"}
               />
             </div>
           </div>
