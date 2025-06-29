@@ -1,7 +1,7 @@
 import React from "react";
 import CVDesc from "./CVDesc";
 import CVSkills from "./CVSkills";
-import fotoPerfil from "../assets/foto-perfil.jpg";
+import fotoPerfil from "../assets/foto-perfil.png";
 
 function Curriculum() {
   return (

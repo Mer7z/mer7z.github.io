@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import ProjectsList from './ProjectsList'
-import fotoPerfil from '../assets/foto-perfil.jpg'
+import fotoPerfil from '../assets/foto-perfil.png'
 
 function Home() {
   
