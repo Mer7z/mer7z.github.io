@@ -1,5 +1,12 @@
 [
   {
+    "name": "Unique Random Username Generator",
+    "date": "June 2025",
+    "description": "URUG is a web app that generates simple and cool usernames. It can generate using a simple algorithm that follows basic syllable generating rules for made up words.",
+    "pageLink": "https://mer7z.github.io/urug/",
+    "tech": ["Javascript", "React", "Tailwind CSS"],
+    "img": "/projects/images/urug.png"
+  },{
     "name": "MyOC",
     "date": "October 2024",
     "description": "MyOC is a webpage for the creation and sharing of Original Characters (OCs) and illustrations. This was the project made for the practical phase in my SENA degree, this project is currently innactive, but I want to continue to develop it in the future.",
